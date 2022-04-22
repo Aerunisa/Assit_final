@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "112406421214",
+    "project_id": "assistencia-9cf8f",
+    "storage_bucket": "assistencia-9cf8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112406421214:android:85711da946d0f3eed0ac4f",
+        "android_client_info": {
+          "package_name": "com.project.asistencia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112406421214-5jeolqqln66qjddjqqge3io2escpnpvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY-nbeTeREHhu8p_3ZUPg5QVpquB_OjZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112406421214-5jeolqqln66qjddjqqge3io2escpnpvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
